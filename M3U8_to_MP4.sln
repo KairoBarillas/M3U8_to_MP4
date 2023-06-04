@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3U8_to_MP4", "M3U8_to_MP4.csproj", "{B40FF0D9-658F-4D50-8E2D-28951543741D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40FF0D9-658F-4D50-8E2D-28951543741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40FF0D9-658F-4D50-8E2D-28951543741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40FF0D9-658F-4D50-8E2D-28951543741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40FF0D9-658F-4D50-8E2D-28951543741D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32B62DD9-551E-4809-A777-5C1F29F78372}
+	EndGlobalSection
+EndGlobal
